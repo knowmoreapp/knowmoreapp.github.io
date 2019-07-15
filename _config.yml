@@ -3,6 +3,7 @@
 
 # Site settings
 title: KnowMore
+theme: jekyll-theme-cayman # for github to work
 description: |
   Solving for knowledge and retention 
   through simple digital tools.  
