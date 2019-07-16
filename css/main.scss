@@ -1832,3 +1832,9 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
+
+	.learning-value-underline {
+		display:inline-block;
+    	border-bottom:1px solid;
+    	padding-bottom:2px;
+	}
